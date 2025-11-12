@@ -1,0 +1,36 @@
+body{
+    background-image: url("../ola-de-colores-6815.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top center;
+    text-align: center;
+}
+
+h1{
+    background-color: blueviolet;
+    color:white;
+    border-left-width: 5px;
+    border-style: solid;
+    border-left-color: white;
+}
+
+img {
+    border: 10px yellow solid;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px black;
+
+}
+
+ul{
+    list-style-type:none;
+}
+
+li{
+    display: inline;
+     border: 3px yellow solid;
+}
+
+.img-postits {
+    height: 700px;
+    width: 700px;
+}
